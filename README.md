@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <!-- Top Langs-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongSamE)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Github trophy-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kde12327&row=2&column=3&theme=Gradient)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DongSamE&row=2&column=3&theme=Gradient)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Github trophy-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kde12327&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongSamE)](https://github.com/anuraghazra/github-readme-stats)
