@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DongSamE&row=2&column=3&theme=onestar&title=MultipleLanguage,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DongSamE&row=2&column=3&theme=onestar&title=MultipleLang,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongSamE)](https://github.com/anuraghazra/github-readme-stats)
