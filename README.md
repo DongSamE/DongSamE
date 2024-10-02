@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- background Image-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<!-- Top Langs-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongSamE)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github trophy-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=kde12327&row=2&column=3&theme=Gradient)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Github trophy-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kde12327&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
