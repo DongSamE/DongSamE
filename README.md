@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- background Image-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <!-- Github trophy-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DongSamE&row=2&column=3&theme=Gradient)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Github trophy-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongSamE)](https://github.com/anuraghazra/github-readme-stats)
-<!-- background Image-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
